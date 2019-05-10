@@ -3,7 +3,7 @@ C# lab2, by Lu Yuan, May 6th, 2019
 
 ## Introduction
 1. This app is based on Sanfored.Mutilmedia.Midi
-2. This changes are equipping the original app with a flexible size of component which can change automatically wheneven the size of window changed
+2. The changes are equipping the original app with a flexible size of component which can change automatically wheneven the size of window changed
 3. This app also optimize the interface to improve users' experience
 
 ## Implement of changing the size of component automatically with window
